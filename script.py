@@ -19,4 +19,4 @@ For more click help....</b>"""
 
 ⭕️<b>Language :</b> <code>Python3</code>
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
-⭕️<b>Group :</b> 👉 <a href='https://t.me/SDBOTz'>Click Here</a>"""
+⭕️<b>Group :</b> 👉 <a href='https://t.me/Amdy_Support'>Click Here</a>"""
