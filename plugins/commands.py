@@ -19,7 +19,7 @@ async def start(client: Client, message: Message):
                     [
                         InlineKeyboardButton(
                             "Updates Channel",
-                            url="https://t.me/SDBOTs_inifinity",
+                            url="https://t.me/Amdyx_bot",
                         )
                     ],
                 ]
@@ -45,7 +45,7 @@ async def help(client, message):
                     [
                         InlineKeyboardButton(
                             "Updates Channel",
-                            url="https://t.me/SDBOTs_inifinity",
+                            url="https://t.me/Amdyx_bot",
                         )
                     ],
                 ]
@@ -71,7 +71,7 @@ async def about(client, message):
                     [
                         InlineKeyboardButton(
                             "Updates Channel",
-                            url="https://t.me/SDBOTs_inifinity",
+                            url="https://t.me/Amdyx_bot",
                         )
                     ],
                 ]
